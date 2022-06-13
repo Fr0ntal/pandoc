@@ -1,19 +1,17 @@
-# **BOLD**
+# bold
 
-## **BOLD**
+## **BOLD** **BOLD**
 
-### STUFF
+### MINICH
 
-#### WTF
+#### STUFF
 
-##### WHAT THE DUCK
+##### STUFF
 
-###### STUFF
+###### INPUT
 
 **good**
 
 not good
 
 **BOLD**
-
-bold
